@@ -59,5 +59,4 @@ public class ExempleDeScenario {
         s.playOn(b1); */
 
     
-
 }
